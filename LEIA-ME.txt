@@ -1,0 +1,4 @@
+Connect Flow - versão estática
+Abra o arquivo index.html no navegador. Edite style.css (visual), app.js (telas e dados) e index.html.
+Logins de teste: joao / 123456 (funcionário) e gestor / 123456 (gestor).
+Os dados ficam salvos no navegador (localStorage).
